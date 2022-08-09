@@ -326,6 +326,6 @@ Updates an instance based on the class name, id, and kwargs passed. Update the f
 
 0x06 Authors
 
-Ayomide Suara
+ABAKPA OBEKPA JOHN
 
-Bamidele Adefolaju
+ABOSI CHIJOKE CYPRIAN 
